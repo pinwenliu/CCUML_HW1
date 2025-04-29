@@ -1,4 +1,4 @@
-# ML_Assignment 1
+# Machine Learning - Assignment 1
 
 ## 1. Loss Curve
 ![loss](loss_curve.png)
