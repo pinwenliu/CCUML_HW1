@@ -1,5 +1,3 @@
-# CCUML_HW1
-
 # ML_Assignment 1
 
 ## 1. Loss Curve
