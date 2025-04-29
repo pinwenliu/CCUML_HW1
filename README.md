@@ -1,6 +1,6 @@
 # CCUML_HW1
 
-# ML_Assignment 1_612410070
+# ML_Assignment 1
 
 ## 1. Loss Curve
 ![loss](loss_curve.png)
